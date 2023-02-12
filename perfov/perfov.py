@@ -27,3 +27,4 @@ class Perfov:
     def _print_duration(duration, label=None):
         print_string = f"{label} process took {duration}"
         print(print_string)
+
